@@ -1,0 +1,2 @@
+# fyxbot
+Yo dalut
